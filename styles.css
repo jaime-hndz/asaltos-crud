@@ -1,0 +1,21 @@
+body{
+    background: url("img/fondo.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.mychart{
+    max-width: 800px;
+    background-color: white;
+    margin: 40px;
+}
+
+#IrEstadisticas{
+    font-size: larger;
+    margin: 0px 40px;
+}
+
+#mapid { height: 180px; }
